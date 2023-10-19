@@ -1,0 +1,90 @@
+
+/*
+@keyframes example {
+    from {background-color: #FF7A38;}
+    to {background-color: #FFC022;}
+  }
+
+  @keyframes floatup {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-100px);}
+  }
+
+
+ .whole-container {
+    width: 1500px;
+    height: 3000px;
+    animation: floatup 2s forwards;
+    text-align: center;
+  }
+
+  */
+
+  .love {
+    font-family: cursive;
+    color: red;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .ME {
+    color: brown;
+    font-weight: bold;
+    font-size: x-large;
+
+  }
+
+  .girl {
+
+    color:pink;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .aboutus {
+
+    width: 1000px;
+
+    position: absolute;
+    left: 200px;
+    top: 100px;
+  }
+
+  .perfect {
+
+    color: #BEBEBE;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .grass {
+
+    color: green;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+
+  .dark {
+    color: dark;
+    font-weight: bold;
+    font-size: x-large;
+
+  }
+
+  .song {
+    font-family: Helvetica;
+    color: blue;
+    font-weight: bold;
+    font-size: x-large;
+
+  }
+
+  .contactUS {
+    width: 1000px;
+
+    position: absolute;
+    left: 600px;
+    top: 100px;
+
+  }
